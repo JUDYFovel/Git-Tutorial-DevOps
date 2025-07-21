@@ -1,1 +1,1 @@
-print("Welcome Fara !")
+print('fara')
